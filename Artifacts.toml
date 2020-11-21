@@ -1,0 +1,384 @@
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "b26cfe5b1c7a8606022390514a5745ff6320f7cd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "1bee2d1685480442b6f5d492053ccff9f4156a29a4d6316b10f1c213ee658fe5"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "c8e57a46089f9da5b64f5fb4ff492c571287fa8d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "9eeee41df75d6c7605b613f783188a7b95e905054ea42629dae14cf74a47ff46"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "d11f9552ae6297caa07b10927942645c0351c825"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "02b28a54406a6c2ac88a946bc337220948bea0e0a3197b86ecc4d02cdf545a8d"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "877cb9f26bf9bacdf3ba8efadd656c3b7007e20c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "36e9e6b267e9bb60ae882c0102014c90d66876d71b3ccd49b020be199eb4798f"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "ea5070ee214da41abb47b511b6c335b3594609dc"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "832bf0ec8e5c9dbff11f3bb0f6a8b6d0411462aef2c630359137e39fe16edc58"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "aarch64"
+git-tree-sha1 = "6d6a721da45d13596cfea35833f29fb680cc36d5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "bc39f7b66b62d765d5f56c156d2edbb6f852e479c24375098145e9c5510f6b35"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bec3f3c9c781c5b6c34e07994f72e448de5544f1"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "ee2aac0aeb024a9c4b16ada890c1260104e4c59679e71909ee8bc5e6b30aa089"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6929d01cf47f7b802cc842810d0cc015d112e622"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "0179f13091ac09fe822ac3fdeed31756245ca039606c2e8c11be0b9c9c99edf2"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "145c046642560bbc67d6663e8f822abd528a8328"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "fdad4bc3080009ebfeafa57958c8682402e9f158abb3ac0cc8924cd10ec483cc"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "858c25bdb4e65c2a7b89285e9120adf4ee839d80"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "e5d2be1a68197341e24eeb582fe35d7fb68a39747cd520f2d5f3f935db28ddfa"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "529917db499c4ad1a445601a162299fe962683a2"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "4eb27ce65f25ddeb04d37e418221c818a081029e37107f2d1667cc9baa18cf7c"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "52af29a6d825322ea25e45c13134dc5c72320e79"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "954804d51bc158bbe40f741e3326b042c43dd4baaec8c7243e2af05d55872b69"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "0af653c19668c8ca108df62add8ccb21e9e5a061"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "b28e635fc83e6dbe39b6c5a413b13c7a73b5f4f44ebe798ea8026c390017f2b9"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "e254fab83d59e445b9677b20e6b36f88933b167f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "143b17769f0eaaa538161df015af9a320bdebe2e2089c33d221594dd9c8f4cf2"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "dd46052162b1f675c9029631986071bc994b84de"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "23cb2a8abe80789fb95b208d6daf6f236954dd14b04dd29878b0b4683b1f2b6f"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "a3fe242ac15eb5254c0fb59c99794476d8f15b1e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "11f851584073d85ae2d43a0c29be50ca99f63f440a68c4dc0bac598b618fac30"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "8431f1d9393bbe73e21b866469221e9bfeea0924"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "636d608dc26149c5a37fbc9f900a04dbdbd79d5b3099fdddc033c4076e6ff323"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "7445072f0a677dbb5b2bccf234b5cfaaba0fb9e4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "aedfeba796e10d97b1fc5fe7b5308a0944b6aebe92b283d7d2913dbc2ddd664f"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "118d9537bfd13d0d6911e6cbe82111be529ad896"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "43160ea35559ad86ac0b713564f7a74b2c3465c3f7b1cf07653f1a3e5746e4bb"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "3a700fc7d2b77c862cbc38480e5dfe27a5174b19"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "367fb7f13fb7f517ee39444b9f09c49b95f4b145ad1f09dc48291ebc410bfaa5"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "i686"
+git-tree-sha1 = "075f90a5584dab619dd72f618c7886d2bdf9c6f4"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "462db40b735a81a4d9dbb101ab6cd478903b38cb142d26f0ad35e6958886c113"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "powerpc64le"
+git-tree-sha1 = "1c637790f8be7ef3a6f046393348779a6c4ccc7a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "79ef1412427a7eb56a923cb272aff8211476930796b3e8600c8f1ed025ac98af"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "powerpc64le"
+git-tree-sha1 = "906f11255240ed8827d0950f99814fe71a5407ae"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "6c879379fdb28826dffcf4e9b30432ee9393c03d54b6bab849e3a24522065d46"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "powerpc64le"
+git-tree-sha1 = "c8277bcbbe9674895762c703f4f3fa2dd2eecfbb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "3a76e0eb865a21b1ca7b1cffbd2286879742d0f85bac44e6291287a58261b24e"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "f1a9b0af6c9a42fd2488c22979960fe119e7f7ec"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[wannier90.download]]
+    sha256 = "2dc19806c0462b67c3b895e3e7a0489c82acbefa0110355e3dcd0241a1bbe80c"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "e611f57eabbe4217a56ad25703166cc6f01afabb"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[wannier90.download]]
+    sha256 = "8d68dad2e5b210f424eeeb4789fa8b13ed84a02ea2d542a4a7d646ec5980d972"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "20d5796ee8e94d379885266619152efffe6b3121"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[wannier90.download]]
+    sha256 = "6253275f7e8f0602e4c7bcbc637324065338441b0255d8a52c7977d20834e4b0"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "4718db7076422cb13e0b3f2f70b1dd2b262f3f38"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "1468d56c5476fc2e816405192a1e44c5d94daa9774c34840c14966075c260a89"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "b03f69d97a8ae190d771a056c46dbb2f9d758717"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "6a151b5777d61a2c32bbaeb38d9bbfa0f5b4eda6c2203b9392facb71663dfaa8"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "3fddddf56ecbefab17b9254595fd23f5fd62c8e1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "9dc2fb225c87aee42bd098d66faf3c0b4e8f557cf47508d1a1ff2c9c59504aad"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "405d1aa304db12fe4000cfde0d878dc8a51d93c6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "3855d8f675644be08857a91ea9b8cf3a63ea41c57aec69e4772e06a95829c008"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "0e3f1e5441374bee45060842218d2389d4782dd2"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "d7e3ac7afc18ab1160741b529ea7455c5ff1151c1f6ffa15748457469ddb5d76"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "14a8e7c7b4a58a8e46910d90b322b2d2f9bd778f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[wannier90.download]]
+    sha256 = "5775feab0d6f8fdde03aab861176a7c1177782436a2f89d6d1209893596f80f3"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "d18ee6772232ea62cce1fb054dab742ef92b4bd6"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[wannier90.download]]
+    sha256 = "af4a7d23178da9ff01c07e024883cd8a46a6369681dc9d161de9498bbc4eda6f"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "93645b19e052b492eec2695800e1ac79ab831dd4"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[wannier90.download]]
+    sha256 = "6bde92e900e1bcef69c0d1a446f3dee1398edd3abdc19566b84ef28c405dd423"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "5f960f8805bdf573e826f2cadf8fc1b830738f48"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[wannier90.download]]
+    sha256 = "a655dbb3d602125cc4ecc7742558f6d12696e169dbb5c942fbe3b588dddd3d50"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "367eb779d94eb8cd563fe66a936050835220dc47"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "43aff2df9bea2bbb91fe41948c2287e35858740ece56a34ae5e55a3b63569ef0"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "5f78703a7826a564c6c37eed50758eec0d5476b8"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "6bb907530e6393f8587f9639c70102159084fb1dd8d19a8d1ed32c375663687f"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[wannier90]]
+arch = "x86_64"
+git-tree-sha1 = "86d88bd14f57bdb6b80681af5143f91407b59d6f"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[wannier90.download]]
+    sha256 = "5ee44e542561e7d219d5e72b1b873fe5dc6b7fbae05a6acfa3243ee2b7fe89d6"
+    url = "https://github.com/JuliaBinaryWrappers/wannier90_jll.jl/releases/download/wannier90-v3.1.0+0/wannier90.v3.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
