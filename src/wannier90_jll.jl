@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("wannier90")
-JLLWrappers.@generate_main_file("wannier90", UUID("c5400fa0-8d08-52c2-913f-1e3f656c1ce9"))
+JLLWrappers.@generate_main_file("wannier90", Base.UUID("c5400fa0-8d08-52c2-913f-1e3f656c1ce9"))
 end  # module wannier90_jll
